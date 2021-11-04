@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ghi Chú</string>
+    <string name="action_settings">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Tiêu Đề</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">Nhập tên sự kiện</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Ngày hết hạn</string>
+    <string name="today">Hôm Nay</string>
+    <string name="tomorrow">Ngày Mai</string>
+    <string name="this_wknd">Tuần Này</string>
+    <string name="next_week">Tuần Sau</string>
+    <string name="radio_high">Quan Trọng</string>
+    <string name="radio_med">Bình Thường</string>
+    <string name="radio_low">Không Quan Trọng</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Todoist Clone App - by BAWP - version 0.1</string>
+    <string name="add_todos">Add a Todo...</string>
+</resources>
